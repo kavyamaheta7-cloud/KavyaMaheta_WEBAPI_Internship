@@ -11,3 +11,5 @@ Praactical list:
 3.XML Import Export 
 4.PDF creation using FPDF
 5.QR code Integration
+6.Google Captcha
+7.Excel Import Export
