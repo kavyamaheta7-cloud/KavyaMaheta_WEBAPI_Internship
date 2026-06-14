@@ -13,3 +13,6 @@ Praactical list:
 5.QR code Integration
 6.Google Captcha
 7.Excel Import Export
+8.Rst API Integration
+9.Razorpay Integration
+10.PHP Mailer
